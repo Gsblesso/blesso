@@ -1,9 +1,9 @@
 # Workflow Engine - AI Engineering Internship Assignment Submission
 
-**Author:** [YOUR FULL NAME]  
-**Email:** [YOUR EMAIL]  
+**Author:** GODLIN SAMUEL BLESSO F 
+**Email:** godlinsamuelblesso@gmail.com
 **GitHub:** https://github.com/Gsblesso/workflow-engine  
-**Date:** [TODAY'S DATE - e.g., December 11, 2024]
+**Date:**  December 10, 2025
 
 ---
 
